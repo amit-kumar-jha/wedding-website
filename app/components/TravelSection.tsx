@@ -111,9 +111,9 @@ export default function TravelSection() {
             href="https://maps.app.goo.gl/9dffuJvpjbwGdVF56"
             target="_blank"
             rel="noreferrer"
-            className="mt-3 inline-flex text-xs text-pink-300 underline underline-offset-4 hover:text-pink-200"
+            className="mt-3 inline-flex text-xs text-pink-300 hover:text-pink-200"
           >
-            📍 Open Haldi Location in Google Maps
+            📍 Jha Nivas (Anil Jha)
           </a>
         </div>
 
@@ -128,9 +128,9 @@ export default function TravelSection() {
             href="https://maps.app.goo.gl/9dffuJvpjbwGdVF56"
             target="_blank"
             rel="noreferrer"
-            className="mt-3 inline-flex text-xs text-pink-300 underline underline-offset-4 hover:text-pink-200"
+            className="mt-3 inline-flex text-xs text-pink-300 hover:text-pink-200"
           >
-            📍 Open Mehndi Location in Google Maps
+            📍 Jha Nivas (Anil Jha)
           </a>
         </div>
 
@@ -147,28 +147,25 @@ export default function TravelSection() {
             href="https://maps.app.goo.gl/9dffuJvpjbwGdVF56"
             target="_blank"
             rel="noreferrer"
-            className="mt-3 inline-flex text-xs text-pink-300 underline underline-offset-4 hover:text-pink-200"
+            className="mt-3 inline-flex text-xs text-pink-300 hover:text-pink-200"
           >
-            📍 View Patna Departure Point
+            📍 Patna Departure Point
           </a>
         </div>
 
         {/* Wedding Venue */}
         <div className="rounded-2xl border border-white/10 bg-slate-900/60 p-5 text-sm">
           <h3 className="text-base font-semibold">Wedding Venue</h3>
-          <p className="mt-2 text-slate-300">
-            <span className="font-semibold">Vaikuntham</span>, Shiv Puri, Bhagalpur
-          </p>
-
+            <p className="mt-2 text-slate-300">
           <a
             href="https://maps.app.goo.gl/7CMXXq2MQmAUJseZ6"
             target="_blank"
             rel="noreferrer"
-            className="mt-3 inline-flex text-xs text-pink-300 underline underline-offset-4 hover:text-pink-200"
+            className="inline-flex text-xs text-pink-300 hover:text-pink-200"
           >
-            📍 Open Wedding Venue in Google Maps
+            <span className="font-semibold">📍 Vaikuntham</span>, Shiv Puri, Bhagalpur
           </a>
-
+          </p>
           <p className="mt-2 text-slate-400">
             Recommended to arrive a few hours before the ceremony.
           </p>

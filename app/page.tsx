@@ -11,6 +11,8 @@ import Footer from "./components/Footer";
 import OurStory from "./components/OurStory";
 import Countdown from "./components/Countdown";
 import SeatingChart from "./components/SeatingChart";
+import WeddingFamily from "./components/WeddingFamily";
+import WeddingFamilyAdvanced from "./components/WeddingFamily";
 
 
 
@@ -22,6 +24,7 @@ export default function HomePage() {
       <Countdown />
       <div className="mx-auto max-w-6xl px-4 pb-24 space-y-24">
         <OurStory />
+      <WeddingFamilyAdvanced />
         <EventsSection />
         <TimelineD3 />
         <GallerySection />
