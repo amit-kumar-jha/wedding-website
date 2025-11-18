@@ -1,6 +1,8 @@
 export default function Navbar() {
   const items = [
     { href: "#story", label: "Our Story" },
+    { href: "#countdown", label: "Countdown" },
+    { href: "#wedding-family-advanced", label: "Families" },
     { href: "#events", label: "Events" },
     { href: "#timeline", label: "Timeline" },
     { href: "#gallery", label: "Gallery" },
