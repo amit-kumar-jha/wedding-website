@@ -174,7 +174,7 @@ export default function WeddingFamilyAdvanced({ data = sampleData }: { data?: Pe
     <section id="wedding-family-advanced" className="scroll-mt-24">
       {/* header / controls */}
 <div className="mb-4">
-  <div className="flex flex-col gap-3 items-center sm:flex-row sm:items-start sm:justify-between">
+  <div className="flex flex-col gap-3 items-center ">
     <div className="flex-1 min-w-0 text-center sm:text-left">
       <h2 className="text-2xl font-extrabold tracking-tight">Wedding Party & Families</h2>
       <p className="mt-1 text-sm text-slate-400">Meet the families — tap a card for details.</p>
