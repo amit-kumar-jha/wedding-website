@@ -6,13 +6,11 @@ import TimelineD3 from "./components/TimelineD3";
 import EventsSection from "./components/EventsSection";
 import GallerySection from "./components/GallerySection";
 import TravelSection from "./components/TravelSection";
-import RSVPSection from "./components/RSVPSection";
 import Footer from "./components/Footer";
 import OurStory from "./components/OurStory";
 import Countdown from "./components/Countdown";
-import SeatingChart from "./components/SeatingChart";
-import WeddingFamily from "./components/WeddingFamily";
 import WeddingFamilyAdvanced from "./components/WeddingFamily";
+import InvitationCard from "./components/InvitationCard";
 
 
 
@@ -29,6 +27,7 @@ export default function HomePage() {
         <TimelineD3 />
         <GallerySection />
         <TravelSection />
+       <InvitationCard  />
       </div>
       <Footer />
     </main>

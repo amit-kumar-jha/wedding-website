@@ -7,6 +7,8 @@ export default function Navbar() {
     { href: "#timeline", label: "Timeline" },
     { href: "#gallery", label: "Gallery" },
     { href: "#travel", label: "Travel" },
+      { href: "#invitation", label: "Invitation" },
+    
   ];
 
   return (
